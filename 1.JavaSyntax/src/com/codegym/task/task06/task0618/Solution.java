@@ -12,7 +12,7 @@ public class Solution {
 
     public static void main(String[] args) {
         //write your code here
-        KissMyShinyMetalRearActuator kissMyShinyMetalRearActuator = new KissMyShinyMetalRearActuator();
-        System.out.println(kissMyShinyMetalRearActuator.toString());
+        KissMyShinyMetalRearActuator kmma = new KissMyShinyMetalRearActuator();
+        System.out.println(kmma);
     }
 }
